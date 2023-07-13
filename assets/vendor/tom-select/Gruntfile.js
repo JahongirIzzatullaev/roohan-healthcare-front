@@ -198,7 +198,7 @@ module.exports = function(grunt) {
 			builddocs:{
 				files:[
 					{src:['build/docs/js/index.bundle.js'],dest:'build/docs/js/index.bundle.js'},
-					{src:['build/docs/index.html'],dest:'build/docs/index.html'}
+					{src:['build/docs/index_ru.html'],dest:'build/docs/index_ru.html'}
 				]
 			}
 		},

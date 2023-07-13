@@ -4,3 +4,18 @@
 .navbar-brand-logo{
     max-width: 9rem !important;
 }
+.bg-footer-primary{
+    background-color: #026c84;
+}
+
+.social-contacts{
+    display: flex;
+    align-items: center;
+}
+.bi-telegram, .bi-whatsapp{
+    cursor: pointer;
+    font-size: 25px;
+}
+.bi-whatsapp{
+    margin-left: 10px;
+}
