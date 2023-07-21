@@ -19,3 +19,6 @@
 .bi-whatsapp{
     margin-left: 10px;
 }
+.hidden-step-line:after{
+    display: none !important;
+}
