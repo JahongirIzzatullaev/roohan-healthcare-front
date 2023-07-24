@@ -25,3 +25,6 @@
 .hidden-step-line:after{
     display: none !important;
 }
+.gradient-y-overlay-sm-gray-900::before{
+    background-image:none !important;
+}
